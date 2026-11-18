@@ -1,0 +1,3 @@
+# Qlik Sense
+
+Utility scaffolding.
